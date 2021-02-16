@@ -8,4 +8,4 @@ Ft = str(Ft)
 for i in range(0,len(Ft)):
     if Ft[i] == '.':
         break
-print(Ft[0:i])
+print(Ft[0:i]," - сила тяжести")
